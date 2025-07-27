@@ -1,0 +1,112 @@
+[
+  {
+    "name": "play24",
+    "description": "🎯 Start a 24 Game challenge",
+    "type": 1
+  },
+  {
+    "name": "playemoji",
+    "description": "🧮 Solve emoji puzzles in a timed challenge",
+    "type": 1
+  },
+  {
+    "name": "playequilibrium",
+    "description": "⚖️ Solve a balanced equation! Solo only",
+    "type": 1
+  },
+  {
+    "name": "playlightcalc",
+    "description": "⚡ Solve as many quick math problems as you can before time runs out!",
+    "type": 1
+  },
+  {
+    "name": "playmathdice",
+    "description": "🎲 Play a math dice game",
+    "type": 1
+  },
+  {
+    "name": "playpattern",
+    "description": "🔢 Solve pattern sequences",
+    "type": 1
+  },
+  {
+    "name": "playscramble",
+    "description": "🧩 Solve a scrambled math equation",
+    "type": 1
+  },
+  {
+    "name": "hint24",
+    "description": "💡 Reveal a partial solution for 24 Game",
+    "type": 1
+  },
+  {
+    "name": "mystats",
+    "description": "📈 View your personal game stats",
+    "type": 1
+  },
+  {
+    "name": "leaderboard",
+    "description": "📊 View the leaderboard",
+    "type": 1
+  },
+  {
+    "name": "calc",
+    "description": "🧮 Evaluate math expressions",
+    "type": 1
+  },
+  {
+    "name": "converter",
+    "description": "🔁 Convert currencies and units",
+    "type": 1
+  },
+  {
+    "name": "plot",
+    "description": "📈 Plot a math function",
+    "type": 1
+  },
+  {
+    "name": "history",
+    "description": "📜 See your last 10 calculations",
+    "type": 1
+  },
+  {
+    "name": "memory",
+    "description": "🧠 Recall your last answer",
+    "type": 1
+  },
+  {
+    "name": "help",
+    "description": "📖 View help information",
+    "type": 1
+  },
+  {
+    "name": "commandlist",
+    "description": "📋 View categorized slash commands",
+    "type": 1
+  },
+  {
+    "name": "support",
+    "description": "🛠️ Get the support server link",
+    "type": 1
+  },
+  {
+    "name": "resetstats",
+    "description": "♻️ Reset a user's or all users' stats",
+    "type": 1
+  },
+  {
+    "name": "setlogchannel",
+    "description": "🧾 Set the log channel for bot events",
+    "type": 1
+  },
+  {
+    "name": "setverifychannel",
+    "description": "🔐 Post the verify button",
+    "type": 1
+  },
+  {
+    "name": "setverifyrole",
+    "description": "🧾 Set the verification role",
+    "type": 1
+  }
+]
