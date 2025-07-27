@@ -29,7 +29,7 @@ It offers a variety of math-based games, logical puzzles, and smart utility tool
 ## 📚 Commands
 
 Use `/help` or `/commandlist` to explore categorized commands.  
-For full command reference, see [`commands.json`](./thsv_infinity_chain_commands.json) *(if included)*.
+For full command reference, see [`commands.json`](./thsv_command_list.json)
 
 ---
 
