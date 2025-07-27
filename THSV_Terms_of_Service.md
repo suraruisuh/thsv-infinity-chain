@@ -32,4 +32,4 @@ We may update these Terms at any time. Continued use of the Service constitutes 
 
 ---
 
-For questions, contact the developer via the [Support Server](https://discord.gg/YOUR_SERVER_LINK).
+For questions, contact the developer via the [Support Server](https://discord.com/invite/6QPgp6dkux).
