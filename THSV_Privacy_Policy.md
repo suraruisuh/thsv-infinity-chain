@@ -58,7 +58,7 @@ You have the right to:
 - Object to or restrict processing
 - File a complaint with a supervisory authority
 
-Contact the developer via the [Support Server](https://discord.gg/YOUR_SERVER_LINK) to exercise these rights.
+Contact the developer via the [Support Server](https://discord.com/invite/6QPgp6dkux) to exercise these rights.
 
 ---
 
@@ -74,4 +74,4 @@ We may update this Privacy Policy. Continued use of the Service after changes in
 
 ---
 
-For questions or concerns, join our [Support Server](https://discord.gg/YOUR_SERVER_LINK).
+For questions or concerns, join our [Support Server](https://discord.com/invite/6QPgp6dkux).
