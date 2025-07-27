@@ -49,8 +49,8 @@ Admins can configure game channels, difficulty, timers, attempts, and logging us
 
 ## 🌐 Links
 
-- [Invite the Bot](https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&scope=bot+applications.commands&permissions=277025508352)
-- [Support Server](https://discord.gg/YOUR_SUPPORT_INVITE)
+- [Invite the Bot](https://discord.com/oauth2/authorize?client_id=1397716362956374097)
+- [Support Server](https://discord.com/invite/6QPgp6dkux)
 - [Terms of Service](https://yourdomain.com/terms)
 - [Privacy Policy](https://yourdomain.com/privacy)
 
