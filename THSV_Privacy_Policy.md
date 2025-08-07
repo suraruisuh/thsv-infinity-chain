@@ -1,77 +1,67 @@
+# Privacy Policy for THSV Infinity Chain
 
-# Privacy Policy – THSV Infinity Chain
+Effective Date: August 6, 2025
 
-_Last updated: July 27, 2025_
-
-Your privacy is important to us. This Privacy Policy describes how **THSV Infinity Chain** collects, uses, and protects your data in compliance with GDPR.
-
----
-
-## 1. What Data We Collect
-
-We may collect the following data during normal operation:
-
-- User ID and Guild ID (for statistics and configuration)
-- Game performance stats (e.g., scores, attempts)
-- Command usage (for debugging or improving performance)
-
-We do **not** collect or store:
-- Messages
-- Emails
-- IP addresses
-- Personally identifiable information (PII) outside of Discord User IDs
+Thank you for using **THSV Infinity Chain**. This Privacy Policy explains what information we collect, how we use it, and your rights regarding that information.
 
 ---
 
-## 2. How We Use Your Data
+## 1. Information We Collect
 
-We use your data to:
+We collect and store only the following data when necessary:
 
-- Track stats for leaderboard and game history
-- Configure features on a per-server basis
-- Improve functionality and troubleshoot issues
+- **User ID & Username** – for features like leaderboards, game saves, and stats.
+- **Guild ID & Name** – to store server-specific settings.
+- **Channel IDs** – when configured for game or command usage.
+- **User-submitted input** – such as bug reports, feature suggestions, and math entries.
 
----
-
-## 3. Legal Basis
-
-Data is processed under **legitimate interest** to provide core features and enhancements. All data is used strictly within the scope of the bot's functionality.
-
----
-
-## 4. Data Retention
-
-We retain user data as long as necessary to provide the Service. Data may be deleted upon:
-
-- Request from the user
-- Removal of the bot from a server
-- Scheduled cleanup of inactive records
+We do **not** store:
+- Message content outside bot interactions
+- Personal or sensitive information (emails, IPs, passwords)
 
 ---
 
-## 5. Your Rights (GDPR)
+## 2. How We Use Your Information
 
-You have the right to:
+We use the information collected to:
 
-- Access your data
-- Request deletion
-- Object to or restrict processing
-- File a complaint with a supervisory authority
-
-Contact the developer via the [Support Server](https://discord.com/invite/6QPgp6dkux) to exercise these rights.
+- Provide game features and utilities
+- Maintain leaderboard and user stats
+- Respond to user-submitted feedback (suggestions, bug reports)
+- Improve overall performance and user experience
 
 ---
 
-## 6. Data Security
+## 3. Data Retention
 
-All data is stored securely and access is restricted to authorized personnel only.
-
----
-
-## 7. Changes to Policy
-
-We may update this Privacy Policy. Continued use of the Service after changes indicates acceptance.
+We retain data only as long as needed to operate the bot. You may request deletion of your data at any time (see Section 5).
 
 ---
 
-For questions or concerns, join our [Support Server](https://discord.com/invite/6QPgp6dkux).
+## 4. Sharing and Third Parties
+
+We do **not** share your data with third-party companies or services. Data is only accessed by the bot owner and trusted maintainers for debugging or improvements.
+
+---
+
+## 5. User Rights
+
+You may request:
+- To view what data is stored about you
+- To delete all stored data associated with your user ID
+
+Use the `/privacy` or `/delete_data` commands in a server where the bot is active, or contact us directly in the [Support Server](https://discord.gg/YOUR_SUPPORT_SERVER).
+
+---
+
+## 6. Changes to This Policy
+
+We may update this Privacy Policy as needed. All changes will be posted publicly at:
+
+[https://github.com/yourusername/thsv-infinity-chain/blob/main/privacy_policy.md](https://github.com/suraruisuh/thsv-infinity-chain/edit/main/THSV_Privacy_Policy.md)
+
+---
+
+## 7. Contact
+
+For any questions or concerns, contact us via the [Support Server](https://discord.gg/6QPgp6dkux).
