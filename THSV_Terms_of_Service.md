@@ -25,7 +25,7 @@ The bot is provided **as-is**, with no guaranteed uptime or feature availability
 
 ## 3. User Data
 
-We may store minimal data (see [Privacy Policy](https://github.com/suraruisuh/thsv-infinity-chain/edit/main/THSV_Terms_of_Service.md)) to provide core functionality.
+We may store minimal data (see [Privacy Policy](https://raw.githubusercontent.com/suraruisuh/thsv-infinity-chain/refs/heads/main/THSV_Privacy_Policy.md)) to provide core functionality.
 
 You may request deletion of your data using the appropriate command (`/delete_data`) or via the [Support Server](https://discord.gg/6QPgp6dkux).
 
