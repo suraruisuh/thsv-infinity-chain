@@ -50,7 +50,7 @@ You may request:
 - To view what data is stored about you
 - To delete all stored data associated with your user ID
 
-Use the `/privacy` or `/delete_data` commands in a server where the bot is active, or contact us directly in the [Support Server](https://discord.gg/YOUR_SUPPORT_SERVER).
+Use the `/privacy` or `/delete_data` commands in a server where the bot is active, or contact us directly in the [Support Server](https://discord.gg/6QPgp6dkux).
 
 ---
 
