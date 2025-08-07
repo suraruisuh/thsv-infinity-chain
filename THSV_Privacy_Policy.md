@@ -58,7 +58,7 @@ Use the `/privacy` or `/delete_data` commands in a server where the bot is activ
 
 We may update this Privacy Policy as needed. All changes will be posted publicly at:
 
-[Privacy Policy](https://github.com/suraruisuh/thsv-infinity-chain/edit/main/THSV_Privacy_Policy.md)
+[Privacy Policy](https://raw.githubusercontent.com/suraruisuh/thsv-infinity-chain/refs/heads/main/THSV_Privacy_Policy.md)
 
 ---
 
