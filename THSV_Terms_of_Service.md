@@ -41,7 +41,7 @@ We reserve the right to block the bot from a server or user at any time for viol
 
 These terms may be updated at any time. The latest version will always be available at:
 
-[Terms of Service](https://github.com/suraruisuh/thsv-infinity-chain/edit/main/THSV_Terms_of_Service.md)
+[Terms of Service](https://raw.githubusercontent.com/suraruisuh/thsv-infinity-chain/refs/heads/main/THSV_Terms_of_Service.md)
 
 ---
 
