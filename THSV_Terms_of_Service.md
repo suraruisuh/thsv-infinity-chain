@@ -1,35 +1,50 @@
+# Terms of Service for THSV Infinity Chain
 
-# Terms of Service – THSV Infinity Chain
+Effective Date: August 6, 2025
 
-_Last updated: July 27, 2025_
-
-Welcome to **THSV Infinity Chain**, a Discord bot designed for educational and entertainment purposes.
-
-By using this bot ("Service"), you agree to the following terms. If you do not agree to these terms, you must not use the Service.
+By inviting and using **THSV Infinity Chain**, you agree to these Terms of Service.
 
 ---
 
-## 1. Usage
-You agree to use the Service only for lawful purposes and in accordance with these Terms. You must not misuse the bot in a way that disrupts its functionality or harms other users.
+## 1. Bot Usage
 
-## 2. License
-We grant you a limited, non-exclusive, non-transferable license to use the Service for personal or non-commercial use on Discord.
+You are allowed to use the bot for entertainment, math challenges, utilities, and productivity features, provided you follow Discord’s Terms of Service and Community Guidelines.
 
-## 3. User-Generated Content
-By using interactive commands, you may generate content (such as statistics or suggestions). We do not claim ownership over this content, but by submitting it, you grant us the right to store and process it for bot functionality.
-
-## 4. Service Availability
-We reserve the right to update, disable, or terminate access to the Service at any time without notice.
-
-## 5. Termination
-We may suspend or block your access to the Service for violation of these Terms.
-
-## 6. Liability Disclaimer
-The Service is provided "as is" without warranties of any kind. We are not liable for any loss or damage arising from use of the bot.
-
-## 7. Changes to Terms
-We may update these Terms at any time. Continued use of the Service constitutes acceptance of the new Terms.
+You are **not allowed** to:
+- Abuse or spam commands
+- Exploit bugs or glitches
+- Reverse-engineer or clone the bot
 
 ---
 
-For questions, contact the developer via the [Support Server](https://discord.com/invite/6QPgp6dkux).
+## 2. Availability
+
+The bot is provided **as-is**, with no guaranteed uptime or feature availability. Maintenance or outages may occur without notice.
+
+---
+
+## 3. User Data
+
+We may store minimal data (see [Privacy Policy](https://github.com/suraruisuh/thsv-infinity-chain/edit/main/THSV_Terms_of_Service.md)) to provide core functionality.
+
+You may request deletion of your data using the appropriate command (`/delete_data`) or via the [Support Server](https://discord.gg/6QPgp6dkux).
+
+---
+
+## 4. Termination
+
+We reserve the right to block the bot from a server or user at any time for violation of these terms or abuse of features.
+
+---
+
+## 5. Changes
+
+These terms may be updated at any time. The latest version will always be available at:
+
+[https://github.com/yourusername/thsv-infinity-chain/blob/main/terms_of_service.md](https://github.com/suraruisuh/thsv-infinity-chain/edit/main/THSV_Terms_of_Service.md)
+
+---
+
+## 6. Contact
+
+Questions? Join the [Support Server](https://discord.gg/6QPgp6dkux) or reach out to the developer directly.
